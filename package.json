@@ -1,0 +1,36 @@
+{
+  "name": "imageresize",
+  "version": "1.0.0",
+  "description": "Upload and Resize images in Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "image-clipper": "^0.4.4",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codeamend1/uploadvideo.git"
+  },
+  "keywords": [
+    "Upload",
+    "Video",
+    "Using",
+    "Multer",
+    "Upload",
+    "video",
+    "in",
+    "nodejs"
+  ],
+  "author": "Codeamend1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codeamend1/uploadvideo/issues"
+  },
+  "homepage": "https://github.com/Codeamend1/uploadvideo#readme"
+}
